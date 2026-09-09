@@ -1,0 +1,95 @@
+{
+  "identity": {
+    "name": "Rahaf",
+    "title": "IS student / UI·UX explorer",
+    "email": "hello@rahaf.studio"
+  },
+  "meta": {
+    "pageTitle": "Rahaf — UI/UX explorer",
+    "pageDescription": "Rahaf's scrapbook portfolio for technology, design, and useful experiences."
+  },
+  "nav": {
+    "brand": "cutbook™",
+    "scrollHint": "scroll for the story"
+  },
+  "hero": {
+    "greeting": "Hi. Since you're new here,",
+    "guide": "let me be ya tour guide ↘",
+    "image": "/rahaf-avatar.svg",
+    "imageAlt": "Illustrated portrait of Rahaf",
+    "portraitSymbol": "✦",
+    "flowerSymbol": "✿",
+    "portraitCaption": "designing useful\nthings\n<em>beautifully.</em>"
+  },
+  "timeline": {
+    "kicker": "01 / the lore",
+    "heading": "how it all <accent>clicked.</accent>",
+    "intro": "curiosity, tech, and a tiny obsession with making things better...",
+    "note": "one thing led to another ✶",
+    "items": [
+      { "year": "THE START", "title": "curious by default", "text": "always collecting little ideas, asking why, and finding delight in how things work.", "icon": "✦" },
+      { "year": "NOW", "title": "systems + stories", "text": "studying information systems, where logic meets the human side of technology.", "icon": "◉" },
+      { "year": "NEXT", "title": "designing what matters", "text": "building experiences that feel useful, thoughtful, and visually alive.", "icon": "♡" }
+    ]
+  },
+  "vibes": {
+    "sticker": "the big idea",
+    "heading": "it's not just tech,\nit's <accent>human</accent> experiences.",
+    "compass": {
+      "label": "MY DESIGN COMPASS",
+      "ratio": "01:01",
+      "ratioDescription": "where useful meets visually appealing",
+      "bars": [40, 64, 50, 88, 71, 100, 80],
+      "clarityLabel": "clarity",
+      "clarityValue": "54%",
+      "delightLabel": "delight",
+      "delightValue": "46%"
+    },
+    "photoDump": {
+      "quote": "make it<br />useful. make it<br /><em>feel good.</em>",
+      "poster": {
+        "text": "THINK\nMAKE\nGROW",
+        "symbol": "✹"
+      },
+      "cameraMark": {
+        "title": "IDEA ●",
+        "subtitle": "UI/UX + creative projects"
+      }
+    }
+  },
+  "skills": {
+    "kicker": "02 / what's in my tote",
+    "heading": "skills & works",
+    "themeLabel": "pick a mood — it changes the site!",
+    "toolsLabel": "my ride or dies",
+    "items": ["Fi", "Fr", "No", "Miro", "Can"]
+  },
+  "projects": [
+    { "type": "Creative concept", "title": "FIND\nTHE\nFLOW", "caption": "mobile experience / 2025", "symbol": "♡" },
+    { "type": "UX thinking", "title": "IDEA", "subtitle": "into impact", "caption": "product design" }
+  ],
+  "themePickers": [
+    { "name": "bubblegum", "colors": ["#E882A7", "#F4A5AE", "#F2EEE9", "#231F20"] },
+    { "name": "blueberry", "colors": ["#6C8CD5", "#B9CEFF", "#F5F2E9", "#202741"] },
+    { "name": "matcha", "colors": ["#799E73", "#C6D7B5", "#F5F1E8", "#263828"] }
+  ],
+  "footer": {
+    "eyebrow": "you made it! open the letter ♡",
+    "heading": "and that's",
+    "headingAccent": "a wrap.",
+    "letterGreeting": "DEAR FRIEND,",
+    "letterMessage": "let's make\nsomething\nmeaningful.",
+    "openHint": "tap to open",
+    "closeHint": "close letter",
+    "openIcon": "✉",
+    "closedIcon": "♡",
+    "copyrightYear": "2026",
+    "copyrightSuffix": "made with curiosity & good taste"
+  },
+  "socials": [
+    { "label": "Email", "href": "mailto:hello@rahaf.studio" },
+    { "label": "Instagram", "href": "" },
+    { "label": "TikTok", "href": "" },
+    { "label": "LinkedIn", "href": "" }
+  ]
+}
