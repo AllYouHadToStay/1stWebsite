@@ -1,4 +1,12 @@
 /** @type {import('next').NextConfig} */
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
-const nextConfig = { output: 'export', trailingSlash: true, basePath, assetPrefix: basePath || undefined, images: { unoptimized: true } };
-export default nextConfig;
+const nextConfig = {
+  output: 'export',
+
+  basePath: '/1stWebsite',
+
+  images: {
+    unoptimized: true,
+  },
+};
+
+module.exports = nextConfig;
