@@ -30,7 +30,7 @@ export default function HeroSection() {
     <section className="hero section-shell">
       <nav>
         <span className="font-black tracking-tight">
-          {content.identity.name}'s {content.nav.brand}
+          {content.identity.name}&apos;s {content.nav.brand}
         </span>
         <span className="nav-pill">
           {content.nav.scrollHint} <ArrowDownRight size={16} />
